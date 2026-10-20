@@ -1,0 +1,165 @@
+.start{
+    background-color: rgb(255, 166, 0);
+    text-align: center;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+
+
+#header-about{
+    color: rgb(225, 0, 0);
+}
+.about{
+    background-color: gainsboro;
+    border-radius: 5px;
+    border-left: 3px solid green;
+}
+
+.line{
+    width: 100%;
+}
+
+.my-photo   img{
+    width: 10%;
+    float: left;
+}
+.me{
+    width: 90%;
+    float: right;
+}
+.clear-about{
+    clear: both;
+} 
+
+
+
+#header-skills{
+    color: blue;
+}
+.skills{
+    background-color: gainsboro;
+    border-radius: 5px;
+    border-left: 3px solid green;
+}
+
+#header-html{
+    color: brown;
+}
+.html-skill{
+    background-color: gray;
+    width: 25%;
+    border-radius: 5px;
+    float: left;
+}
+
+#header-css{
+    color: brown;
+}
+.css-skill{
+    background-color: burlywood;
+    width: 25%;
+    border-radius: 5px;
+    float: left;
+}
+
+#header-js{
+    color: brown;
+}
+.js-skill{
+    background-color: gray;
+    width: 25%;
+    border-radius: 5px;
+    float: left;
+}
+
+#header-react{
+    color: brown;
+}
+.react-skill{
+    background-color: burlywood;
+    width: 25%;
+    border-radius: 5px;
+    float: left;
+}
+.clear-skills{
+    clear: both;
+}
+
+
+
+#header-experience{
+    color: rgb(255, 0, 136);
+}
+.experience{
+    background-color: gainsboro;
+    border-radius: 5px;
+    border-left: 3px solid green;
+}
+
+.current{
+    background-color: gray;
+    border-radius: 5px;
+    border-left: 3px solid rgb(223, 22, 223);
+}
+.current img{
+    width: 5%;
+    float: left;
+}
+.ex-current{
+    width: 95%;
+    float: right;
+}
+.clear-current{
+    clear: both;
+}
+
+#front{
+    color: slateblue;
+}
+.present{
+    background-color: burlywood;
+    border-radius: 5px;
+    border-left: 3px solid rgb(233, 22, 233);
+}
+.present img{
+    width: 5%;
+    float: left;
+}
+.ex-present{
+    width: 95%;
+    float: right;
+}
+.clear-present{
+    clear: both;
+}
+
+
+
+#header-contact{
+    color: rgb(9, 190, 190);
+}
+.contact{
+   background-color: gainsboro;
+   border-radius: 5px;
+   border-left: 3px solid green; 
+}
+.link-outlook{
+    width: 25%;
+    text-align: center;
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 3px;
+    float: left;
+}
+.link-github{
+    width: 25%;
+    text-align: center;
+    background-color: burlywood;
+    border: 1px solid black;
+    border-radius: 3px;
+    float: left;
+}
+.clear-contact{
+    clear: both;
+}
